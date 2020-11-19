@@ -11,7 +11,7 @@ h2{
   font-family: "Times New Roman";
 }
 a{
-  font-size: 30px;
+  font-size: 25px;
   font-family: "Times New Roman";
   text-align: middle;
   color: #0D59F2;
@@ -29,7 +29,7 @@ a{
   width: 900px;
   height: 135px;
   background: #FFFFFF;
-  font-size: 22px;
+  font-size: 21px;
   margin: 35px auto;
   vertical-align: middle;
   border: solid 7px	#F2A60D;
@@ -59,3 +59,12 @@ a{
   border: solid 7px #F2A60D;
   font-family: "Times New Roman";
 }
+#footer{
+  width: 900;
+  height: 200;
+  background: #FFFFFF;
+  margin: 35px auto;
+  vertical-align: middle;
+  border: solid 7px	#F2A60D;
+  font-family: "Times New Roman";
+  
