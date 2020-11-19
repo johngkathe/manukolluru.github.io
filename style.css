@@ -4,6 +4,11 @@ body{
 }
 h1{
   margin: 25px auto;
+  font-family: "Comic Sans";
+}
+h2{
+  margin: 35px auto;
+  font-family: "Comic Sans";
 }
 #title{
   width: 1000px;
