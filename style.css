@@ -10,6 +10,9 @@ h2{
   margin: 30px auto;
   font-family: "Times New Roman";
 }
+.tab{
+  margin-left: 40px;
+}
 #title{
   width: 1000px;
   height: 180px;
