@@ -2,6 +2,9 @@ body{
   background: #C0EFFF;
   text-align: center;
 }
+p{
+  margin: 25px auto;
+}
 #main {
   width: 1500px;
   height: 1000px;
