@@ -5,11 +5,19 @@ body{
 p{
   margin: 25px auto;
 }
-#main {
+#viz1 {
   width: 1500px;
   height: 1700px;
   background: #FFFFFF;
   margin: 35px auto;
   border: solid 7px	#F2A60D;
+  font-family: "Times New Roman";
+}
+#viz2{
+  width: 1500px;
+  height: 1000px;
+  background: #FFFFFF;
+  margin: 35px auto;
+  border: solid 7px #F2A60D;
   font-family: "Times New Roman";
 }
