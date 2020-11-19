@@ -27,9 +27,9 @@ a{
 }
 #paragraph{
   width: 900px;
-  height: 135px;
+  height: 160px;
   background: #FFFFFF;
-  font-size: 21px;
+  font-size: 22px;
   margin: 35px auto;
   vertical-align: middle;
   border: solid 7px	#F2A60D;
@@ -60,7 +60,7 @@ a{
   font-family: "Times New Roman";
 }
 #footer{
-  width: 900;
+  width: 500;
   height: 200;
   background: #FFFFFF;
   margin: 35px auto;
