@@ -10,8 +10,11 @@ h2{
   font-size: 30px auto;
   font-family: "Times New Roman";
 }
-.tab{
-  text indent: 40px;
+a{
+  font-size: 30px;
+  font-family: "Times New Roman";
+  text-align: middle;
+  color: #0D59F2;
 }
 #title{
   width: 1000px;
