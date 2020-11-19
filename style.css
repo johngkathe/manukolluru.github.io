@@ -11,9 +11,17 @@ h2{
   font-family: "Times New Roman";
 }
 .tab{
-  margin-left: 40px;
+  text indent: 40px;
 }
 #title{
+  width: 1000px;
+  height: 180px;
+  background: #FFFFFF;
+  margin: 35px auto;
+  border: solid 7px	#F2A60D;
+  font-family: "Times New Roman";  
+}
+#paragraph{
   width: 1000px;
   height: 180px;
   background: #FFFFFF;
