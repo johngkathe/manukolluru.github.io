@@ -1,11 +1,12 @@
 body{
-  background: #FFFFFF;
+  background: #F56600;
   text-align: center;
 }
 #main {
-  width: 1000px;
+  width: 1200px;
   height: 600px;
-  background: #F56600;
+  background: #FFFFFF;
   margin: 25px auto;
   border: solid 5px #522D80;
+  font-family: "Times New Roman";
 }
