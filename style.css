@@ -2,8 +2,16 @@ body{
   background: #0D59F2;
   text-align: center;
 }
-p{
+h1{
   margin: 25px auto;
+}
+#title{
+  width: 1000px;
+  height: 200px;
+  background: #FFFFFF;
+  margin: 35px auto;
+  border: solid 7px	#F2A60D;
+  font-family: "Times New Roman";  
 }
 #viz1 {
   width: 1500px;
@@ -15,7 +23,7 @@ p{
 }
 #viz2{
   width: 1500px;
-  height: 1000px;
+  height: 800px;
   background: #FFFFFF;
   margin: 35px auto;
   border: solid 7px #F2A60D;
