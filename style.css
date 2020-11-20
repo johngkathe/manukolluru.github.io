@@ -1,5 +1,5 @@
 body{
-  background: #0D59F2;
+  background: #6D9BF7;
   text-align: center;
 }
 h1{
@@ -23,7 +23,7 @@ a{
   background: #FFFFFF;
   margin: 35px auto;
   vertical-align: middle;
-  border: solid 7px	#F2A60D;
+  border: solid 7px	#F7C96D;
   font-family: "Times New Roman";
   
   border-radius: 25px;
@@ -36,7 +36,7 @@ a{
   font-size: 22px;
   margin: 35px auto;
   vertical-align: middle;
-  border: solid 7px	#F2A60D;
+  border: solid 7px	#F7C96D;
   font-family: "Times New Roman";  
   
   -webkit-transform: scale(.8);
@@ -57,7 +57,7 @@ a{
   height: 1300px;
   background: #FFFFFF;
   margin: 35px auto;
-  border: solid 7px	#F2A60D;
+  border: solid 7px	#F7C96D;
   font-family: "Times New Roman";
   
   border-radius: 25px;
@@ -67,7 +67,7 @@ a{
   height: 700px;
   background: #FFFFFF;
   margin: 35px auto;
-  border: solid 7px #F2A60D;
+  border: solid 7px #F7C96D;
   font-family: "Times New Roman";
  
   border-radius: 25px;
@@ -77,7 +77,7 @@ a{
   height: 732px;
   background: #FFFFFF;
   margin: 35px auto;
-  border: solid 7px #F2A60D;
+  border: solid 7px #F7C96D;
   font-family: "Times New Roman";
   
   border-radius: 25px;
@@ -89,7 +89,7 @@ a{
   background: #FFFFFF;
   margin: 35px auto;
   vertical-align: middle;
-  border: solid 7px	#F2A60D;
+  border: solid 7px	#F7C96D;
   font-family: "Times New Roman";
   
   -webkit-transform: scale(.8);
