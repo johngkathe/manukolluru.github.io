@@ -16,6 +16,7 @@ a{
   text-align: middle;
   color: #0D59F2;
 }
+
 #title{
   width: 1000px;
   height: 150px;
@@ -27,6 +28,7 @@ a{
   
   border-radius: 25px;
 }
+
 #paragraph{
   width: 900px;
   height: 160px;
@@ -37,8 +39,19 @@ a{
   border: solid 7px	#F2A60D;
   font-family: "Times New Roman";  
   
+  -webkit-transform: scale(.8);
+  -ms-transform: scale(.8);
+  transform: scale(.8);
+  transition: .5s transform cubic-bezier(0.5,1.0,0.5,-0.5);
+  
   border-radius: 25px;
 }
+#paragraph:hover {
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+}
+
 #viz1 {
   width: 1500px;
   height: 1300px;
@@ -69,6 +82,7 @@ a{
   
   border-radius: 25px;
 }
+
 #footer{
   width: 500;
   height: 500;
