@@ -2,7 +2,7 @@
 
  Team Number: u08
 
- Team Members: Manu Kollaru, Trip Bastian, John G. Kathe
+ Team Members: Manu Kolluru, Trip Bastian, John G. Kathe
 
  Website: manukolluru.github.io
 
