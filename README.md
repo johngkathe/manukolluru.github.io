@@ -23,3 +23,7 @@
 
 # How we handled the work: 
 Using the data we had, we determined the focus of what needed to be done.  Trip and Manu worked on the visualizations.  John worked on the HTML, CSS, and written story materials for the website.
+
+We all worked on the report together, splitting it into three sections. Slides were made by everyone and presented by everyone. 
+
+Audio for video was recored by Trip and John, and Manu edited the video together
