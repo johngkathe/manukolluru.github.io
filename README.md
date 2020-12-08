@@ -9,7 +9,7 @@
 # Original Dataset Links:
 1) https://www.eia.gov/environment/emissions/state/ (table 2)
 
-2)https://www.eia.gov/environment/emissions/state/ (table 4)
+2. https://www.eia.gov/environment/emissions/state/ (table 4)
 
 3) https://www.epa.gov/sites/production/files/2020-08/chapter_0.zip (table 2-1)
 
