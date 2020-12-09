@@ -5,6 +5,10 @@
  Team Members: Manu Kolluru, Trip Bastian, John G. Kathe
 
  Website: manukolluru.github.io
+ 
+# Link to video 
+https://drive.google.com/file/d/1CwjRf3K7VpMlxDcELFgu7z655NXPCWiM/view?usp=sharing
+
 
 # Original Dataset Links:
 1) https://www.eia.gov/environment/emissions/state/ (table 2)
