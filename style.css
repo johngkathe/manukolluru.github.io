@@ -53,8 +53,8 @@ a{
 }
 
 #viz1 {
-  width: 1500px;
-  height: 1300px;
+  width: 750px;
+  height: 650px;
   background: #FFFFFF;
   margin: 35px auto;
   border: solid 7px	#F7C96D;
@@ -63,8 +63,8 @@ a{
   border-radius: 25px;
 }
 #viz2{
-  width: 1500px;
-  height: 700px;
+  width: 750px;
+  height: 675px;
   background: #FFFFFF;
   margin: 35px auto;
   border: solid 7px #F7C96D;
