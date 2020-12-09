@@ -3,7 +3,7 @@ body{
   text-align: center;
 }
 h1{
-  font-size: 35px auto;
+  font-size: 32px auto;
   font-family: "Times New Roman";
 }
 h2{
@@ -18,7 +18,7 @@ a{
 }
 
 #title{
-  width: 1000px;
+  width: 800px;
   height: 150px;
   background: #FFFFFF;
   margin: 35px auto;
