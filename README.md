@@ -4,7 +4,7 @@
 
  Team Members: Manu Kolluru, Trip Bastian, John G. Kathe
 
- Website: manukolluru.github.io
+ Website: https://manukolluru.github.io
  
 # Link to video 
 https://drive.google.com/file/d/1CwjRf3K7VpMlxDcELFgu7z655NXPCWiM/view?usp=sharing
