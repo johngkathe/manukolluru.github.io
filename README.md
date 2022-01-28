@@ -1,3 +1,12 @@
+# Personal Preface
+
+To preface the materials from the original README, this project was from a Data Visualization focusing on utilizing the D3.js library to make visualizations.  For the final project, we made a basic HTML/CSS website telling a basic story through data about Carbon Emissions in the United States.  We chose this topic for the abundance of data it provided.  You can see a list of my contributions below under the "How we handled the work" section.
+
+# Quick Links:
+
+Project Website: https://manukolluru.github.io
+My D3.js Used: https://observablehq.com/@jkathe/emissions-by-sector?oetm_referrer=https%3A%2F%2Fmanukolluru.github.io%2F&oetm_route=%2F%40jkathe%2Femissions-by-sector
+
 # manukolluru.github.io
 
  Team Number: u08
